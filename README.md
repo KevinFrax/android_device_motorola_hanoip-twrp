@@ -1,4 +1,4 @@
-# configuration for Motorola G40/60
+# Android Device configuration for Motorola G40/60
 
 ## Device specifications
 
@@ -19,3 +19,6 @@ Front Camera | 25 MP (f/2.0)
 G60
 Rear Camera  | 108 MP (f/1.9) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 Front Camera | 32 MP (f/2.0)
+
+![Device Picture](https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g40-fusion-2.jpg)
+
